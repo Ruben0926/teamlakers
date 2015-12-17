@@ -1,0 +1,9 @@
+body { 
+    background-image: url('pics/background_green.png');
+    background-attachment: fixed;
+	font-family: Kelly Slab;}
+	
+a:hover { 
+
+    background-color: #cccccc;
+}	

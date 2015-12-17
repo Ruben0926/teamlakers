@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Kelly+Slab);
+@import url(https://fonts.googleapis.com/css?family=Limelight);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Economica);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One);
+@import url(https://fonts.googleapis.com/css?family=Anton);
+
+
+body { 
+       background: -webkit-linear-gradient(top, red , black,blue); /* For Safari 5.1 to 6.0 */
+		background: -o-linear-gradient(top, red, black, blue); /* For Opera 11.1 to 12.0 */
+		background: -moz-linear-gradient(top, red, black, blue); /* For Firefox 3.6 to 15 */
+		background: linear-gradient(top, red , black, blue); /* Standard syntax (must be last) */
+	background-attachment: fixed;
+	font-family: Kelly Slab;}
+	
+
+	
+a:hover { 
+
+    background-color: lime;
+}
+.economica{
+	font-family: Economica
+}
+.oswald{
+	font-family: Oswald
+}
+.IndieFlower{
+		font-family: indie flower
+	
+}
+.Lobster{
+	font-family: Lobster
+}
+.limelight{
+	font-family: limelight
+}	
+.SigmarOne{
+	font-family: Sigmar One
+}
+img {
+	box-shadow: 10px 10px 5px grey;
+	border: 2px solid black;
+
